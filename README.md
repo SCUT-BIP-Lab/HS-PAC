@@ -74,7 +74,7 @@ CUDA_VISIBLE_DEVICES="" tensorboard --logdir=/
 Environment configuration has been verified
 
 
-# For additional HO3D or inference setup, refer to:
+# For additional setup, refer to:
 https://github.com/lixiny/manotorch
 pip install git+https://github.com/mattloper/chumpy
 pip install pyrender
